@@ -40,7 +40,7 @@
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/alsiam/alfolio.git
+$ git clone https://github.com/iam-neo/potfolio.git
 # Move into the repository
 $ cd alfolio
 # Remove the current origin repository
@@ -59,19 +59,10 @@ $ git remote remove origin
 
   <br/>
 
-## Author Details
-
-Al Siam – [twitter](https://twitter.com/alsiam) – saif@alsiam.com
-
-Distributed under the XYZ license. See `LICENSE` for more information.
-
-[https://github.com/alsiam/alfolio](https://github.com/dbader/)
-
-<br/>
 
 ## Contributing
 
-1. Fork it (<https://github.com/alsiam/alfolio/fork>)
+1. Fork it (<https://github.com/iam-neo/potfolio.git/fork>)
 2. Create your feature branch (`git checkout -b feature/featureName`)
 3. Commit your changes (`git commit -m 'Add some featureName'`)
 4. Push to the branch (`git push origin feature/featureName`)
