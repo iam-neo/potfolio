@@ -62,7 +62,7 @@ $ git remote remove origin
 
 ## Contributing
 
-1. Fork it (<https://github.com/iam-neo/potfolio.git/fork>)
+1. Fork it (<https://github.com/iam-neo/potfolio/fork>)
 2. Create your feature branch (`git checkout -b feature/featureName`)
 3. Commit your changes (`git commit -m 'Add some featureName'`)
 4. Push to the branch (`git push origin feature/featureName`)
