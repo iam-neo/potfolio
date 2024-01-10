@@ -19,6 +19,18 @@ body {
     position: relative;
     left: -600px;
   }
+
+  /* Mobile Optimization */
+@media (max-width: 768px) {
+  .coll {
+    width: 100px;
+    height: 300px;
+    margin: 20px auto;
+    top: 100px;
+    left: -400px;
+  }
+}
+
   
   h2 {
     display: flex;
@@ -43,6 +55,16 @@ body {
     right: 350px;
   }
   
+    /* Mobile Optimization */
+@media (max-width: 768px) {
+  .coll-2 {
+    width: 150px;
+    margin: 20px auto;
+    top: 100px;
+    left: -300px;
+  }
+}
+
   .coll-2 h2 {
     position: relative;
     top: 60px;
