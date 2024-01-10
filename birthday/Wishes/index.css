@@ -181,7 +181,7 @@ body {
           height: 250px;
           margin: 20px auto;
           top: 100px;
-          left: -50px;
+          left: 40px;
         }
       }
   
@@ -219,7 +219,7 @@ body {
     height: 350px auto;
     margin: 20px;
     top: 100px;
-    left: 120px;
+    left: 200px;
   }
   .coll-6 h2 {
     color: white;
