@@ -1,11 +1,11 @@
 {
   "greeting": "Hey!",
-  "name": "Mr. Thapa",
+  "name": "Ms dolly",
   "greetingText": "Finally the day is here, yayy!!",
-  "wishText": "I hope you always stay smiley, and healthy too ;)",
-  "imagePath": "img/thapa.JPG",
+  "wishText": "I hope you always stay cute, and healthy too ;)",
+  "imagePath": "img/dolly.jpeg",
   "text1": "*Happy Birthday Birthday! :D",
-  "textInChatBox": "Best birthday gift for......",
+  "textInChatBox": "Best birthday gift for my best friend?",
   "sendButtonLabel": "Send",
   "text2": "Toh that's what I was going to do.",
   "text3": "But then I stopped midway...",
@@ -19,6 +19,7 @@
   "wishHeading": "Happiest Birthday !",
   "outroText": "Wishing you get everything you deserve, and desire! Stay blessed. With Love - Neo <3",
   "replayText": "Click here, if you want to watch it again. (Atleast 3 baar dekhna, mehnat lagi hai)",
+  "nextToo": "click here to move on to the next surprise",
   "outroSmiley": ":)"
 }
  
